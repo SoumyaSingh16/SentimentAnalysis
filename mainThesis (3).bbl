@@ -1,0 +1,114 @@
+\begin{thebibliography}{}
+
+\bibitem[Abdulla et~al., 2014]{abdulla2014towards}
+Abdulla, N.~A., Ahmed, N.~A., Shehab, M.~A., Al-Ayyoub, M., Al-Kabi, M.~N., and
+  Al-rifai, S. (2014).
+\newblock Towards improving the lexicon-based approach for arabic sentiment
+  analysis.
+\newblock {\em International Journal of Information Technology and Web
+  Engineering (IJITWE)}, 9(3):55--71.
+
+\bibitem[{Algur} et~al., 2010]{5697509}
+{Algur}, S.~P., {Patil}, A.~P., {Hiremath}, P.~S., and {Shivashankar}, S.
+  (2010).
+\newblock Conceptual level similarity measure based review spam detection.
+\newblock In {\em 2010 International Conference on Signal and Image
+  Processing}, pages 416--423.
+
+\bibitem[and and and, 2015]{7382150}
+and and and (2015).
+\newblock Fine-grained sentiment analysis of online reviews.
+\newblock In {\em 2015 12th International Conference on Fuzzy Systems and
+  Knowledge Discovery (FSKD)}, pages 1406--1411.
+
+\bibitem[Brant, 1988]{brant1988gathering}
+Brant, B. (1988).
+\newblock {\em A gathering of spirit: a collection of North American Indian
+  women}.
+\newblock Women's Press.
+
+\bibitem[Choi et~al., 2009]{Choi:2009:DSA:1651461.1651469}
+Choi, Y., Kim, Y., and Myaeng, S.-H. (2009).
+\newblock Domain-specific sentiment analysis using contextual feature
+  generation.
+\newblock In {\em Proceedings of the 1st International CIKM Workshop on
+  Topic-sentiment Analysis for Mass Opinion}, TSA '09, pages 37--44, New York,
+  NY, USA. ACM.
+
+\bibitem[Clifford et~al., 2006]{clifford2006advanced}
+Clifford, G.~D., Azuaje, F., McSharry, P., et~al. (2006).
+\newblock {\em Advanced methods and tools for ECG data analysis}.
+\newblock Artech house Boston.
+
+\bibitem[Das et~al., 2018]{DAS2018956}
+Das, S., Behera, R.~K., kumar, M., and Rath, S.~K. (2018).
+\newblock Real-time sentiment analysis of twitter streaming data for stock
+  prediction.
+\newblock {\em Procedia Computer Science}, 132:956 -- 964.
+\newblock International Conference on Computational Intelligence and Data
+  Science.
+
+\bibitem[Gr{\"a}bner et~al., 2012]{10.1007/978-3-7091-1142-0_40}
+Gr{\"a}bner, D., Zanker, M., Fliedl, G., and Fuchs, M. (2012).
+\newblock Classification of customer reviews based on sentiment analysis.
+\newblock In Fuchs, M., Ricci, F., and Cantoni, L., editors, {\em Information
+  and Communication Technologies in Tourism 2012}, pages 460--470, Vienna.
+  Springer Vienna.
+
+\bibitem[Haykin and Haykin, 2001]{haykin2001kalman}
+Haykin, S.~S. and Haykin, S.~S. (2001).
+\newblock {\em Kalman filtering and neural networks}.
+\newblock Wiley Online Library.
+
+\bibitem[He and Zhou, 2011]{he2011self}
+He, Y. and Zhou, D. (2011).
+\newblock Self-training from labeled features for sentiment analysis.
+\newblock {\em Information Processing \& Management}, 47(4):606--616.
+
+\bibitem[Lawless et~al., 2010]{lawless2010empirical}
+Lawless, R.~M., Robbennolt, J.~K., and Ulen, T. (2010).
+\newblock {\em Empirical methods in law}.
+\newblock Aspen Publishers New York.
+
+\bibitem[Mather and Tso, 2016]{mather2016classification}
+Mather, P. and Tso, B. (2016).
+\newblock {\em Classification methods for remotely sensed data}.
+\newblock CRC press.
+
+\bibitem[McClelland, 1994]{mcclelland1994training}
+McClelland, S.~B. (1994).
+\newblock Training needs assessment data-gathering methods: Part 1, survey
+  questionnaires.
+\newblock {\em Journal of European Industrial Training}, 18(1):22--26.
+
+\bibitem[McNabb, 2015]{mcnabb2015research}
+McNabb, D.~E. (2015).
+\newblock {\em Research methods for political science: Quantitative and
+  qualitative methods}.
+\newblock Routledge.
+
+\bibitem[Patton, 1990]{patton1990qualitative}
+Patton, M.~Q. (1990).
+\newblock {\em Qualitative evaluation and research methods}.
+\newblock SAGE Publications, inc.
+
+\bibitem[Yazan, 2015]{yazan2015three}
+Yazan, B. (2015).
+\newblock Three approaches to case study methods in education: Yin, merriam,
+  and stake.
+\newblock {\em The qualitative report}, 20(2):134--152.
+
+\bibitem[You, 2016]{You:2016:SEA:2964284.2971475}
+You, Q. (2016).
+\newblock Sentiment and emotion analysis for social multimedia: Methodologies
+  and applications.
+\newblock In {\em Proceedings of the 24th ACM International Conference on
+  Multimedia}, MM '16, pages 1445--1449, New York, NY, USA. ACM.
+
+\bibitem[{Zhang} and {Zheng}, 2016]{7904295}
+{Zhang}, X. and {Zheng}, X. (2016).
+\newblock Comparison of text sentiment analysis based on machine learning.
+\newblock In {\em 2016 15th International Symposium on Parallel and Distributed
+  Computing (ISPDC)}, pages 230--233.
+
+\end{thebibliography}

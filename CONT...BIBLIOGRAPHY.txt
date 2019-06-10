@@ -1,0 +1,354 @@
+
+
+
+
+
+
+
+
+
+
+
+
+@INPROCEEDINGS{7919584, 
+author={K. L. S. {Kumar} and J. {Desai} and J. {Majumdar}}, 
+booktitle={2016 IEEE International Conference on Computational Intelligence and Computing Research (ICCIC)}, 
+title={Opinion mining and sentiment analysis on online customer review}, 
+year={2016}, 
+volume={}, 
+number={}, 
+pages={1-4}, 
+keywords={Bayes methods;customer satisfaction;data mining;electronic commerce;pattern classification;regression analysis;sentiment analysis;Web sites;opinion mining;sentiment analysis;online customer review;e-commerce Websites;users reviews;user opinion;naïve Bayes classifier;logistic regression;SentiWordNet algorithm;review classification;Classification algorithms;Sentiment analysis;Algorithm design and analysis;Logistics;Data mining;Conferences;Computers;Opinion Mining;Sentiment Analysis;Naive Bayes classifier;Logistic Regression;Senti Word Net}, 
+doi={10.1109/ICCIC.2016.7919584}, 
+ISSN={2473-943X}, 
+month={Dec},}
+
+
+@INPROCEEDINGS{8229825, 
+author={C. {Chauhan} and S. {Sehgal}}, 
+booktitle={2017 International Conference on Computing, Communication and Automation (ICCCA)}, 
+title={Sentiment analysis on product reviews}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={26-31}, 
+keywords={customer services;natural language processing;sentiment analysis;Web sites;sentiment analysis;text analysis;higher level natural language processing tasks;product reviews;web sites;customer requirements;Feature extraction;Sentiment analysis;Companies;Automation;Tools;Tagging;Sentiment analysis;polarity;Natural language processing;Product reviews;Senti-word net;Part-of-speech tagging}, 
+doi={10.1109/CCAA.2017.8229825}, 
+ISSN={}, 
+month={May},}
+
+
+
+@ARTICLE{8336869, 
+author={Y. {Fang} and H. {Tan} and J. {Zhang}}, 
+journal={IEEE Access}, 
+title={Multi-Strategy Sentiment Analysis of Consumer Reviews Based on Semantic Fuzziness}, 
+year={2018}, 
+volume={6}, 
+number={}, 
+pages={20625-20631}, 
+keywords={data mining;Internet;sentiment analysis;consumer reviews;semantic fuzziness;sentiment extraction;opinion mining;opinion extraction;sentiment mining;sentiment polarities;sentiment Chinese phrases;multistrategy sentiment analysis method;hybrid sentiment analysis method;Internet;Sentiment analysis;Support vector machines;Training;Semantics;Compounds;Mathematical model;Dictionaries;Sentiment analysis;machine learning;semantic fuzziness;consumer reviews}, 
+doi={10.1109/ACCESS.2018.2820025}, 
+ISSN={2169-3536}, 
+month={},}
+
+
+
+@INPROCEEDINGS{7965709, 
+author={W. {Songpan}}, 
+booktitle={2017 IEEE 15th International Conference on Software Engineering Research, Management and Applications (SERA)}, 
+title={The analysis and prediction of customer review rating using opinion mining}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={71-77}, 
+keywords={Bayes methods;data mining;emotion recognition;hotel industry;pattern classification;sentiment analysis;close opinion;open opinion;customer review rating prediction;probability classifier model;customer review hotel;open comments;training data;comment classification;opinion mining;negative comments;positive comments;naive Bayes techniques;customer review rating analysis;Decision trees;Data models;Training data;Data mining;Dictionaries;Feature extraction;Predictive models;open opinion;customer review;opinion mining;naive bayes;decision tree}, 
+doi={10.1109/SERA.2017.7965709}, 
+ISSN={}, 
+month={June},}
+
+
+@INPROCEEDINGS{5697509, 
+author={S. P. {Algur} and A. P. {Patil} and P. S. {Hiremath} and S. {Shivashankar}}, 
+booktitle={2010 International Conference on Signal and Image Processing}, 
+title={Conceptual level similarity measure based review spam detection}, 
+year={2010}, 
+volume={}, 
+number={}, 
+pages={416-423}, 
+keywords={customer satisfaction;data mining;electronic commerce;Internet;pattern classification;purchasing;security of data;Web sites;conceptual level similarity measure;e-commerce;online customer opinion mining;product reviews;online opinions trustworthiness;online opinions classification;Web based customer review spam detection;Feature extraction;Unsolicited electronic mail;Databases;Data mining;Humans;Web pages;Customer reviews;Conceptual level similarity measure;Feature extraction;Web mining}, 
+doi={10.1109/ICSIP.2010.5697509}, 
+ISSN={}, 
+month={Dec},}
+
+
+@INPROCEEDINGS{8321910, 
+author={Z. {Singla} and S. {Randhawa} and S. {Jain}}, 
+booktitle={2017 International Conference on Intelligent Computing and Control (I2C2)}, 
+title={Sentiment analysis of customer product reviews using machine learning}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={1-5}, 
+keywords={Bayes methods;consumer behaviour;decision trees;electronic commerce;learning (artificial intelligence);pattern classification;support vector machines;text analysis;Sentiment analysis;customer product reviews;machine learning;digital reviews;pivotal role;global communications;e-commerce giants;valuable insights;positive sentiment;negative sentiment;Sentiment Analysis;Support Vector Machine;consumer buying patterns;text subjective information extraction;Naïve Bayes;SVM;decision tree;review classification;Support vector machines;Sentiment analysis;Predictive models;Decision trees;Mobile handsets;Feature extraction;Big Data;Big data;text mining;text classification;sentiment analysis;machine learning}, 
+doi={10.1109/I2C2.2017.8321910}, 
+ISSN={}, 
+month={June},}
+
+
+
+@INPROCEEDINGS{7801231, 
+author={R. {Abinaya} and P. {Aishwaryaa} and S. {Baavana} and N. D. T. {Selvi}}, 
+booktitle={2016 IEEE Technological Innovations in ICT for Agriculture and Rural Development (TIAR)}, 
+title={Automatic sentiment analysis of user reviews}, 
+year={2016}, 
+volume={}, 
+number={}, 
+pages={158-162}, 
+keywords={data mining;graph theory;image processing;pattern classification;sentiment analysis;support vector machines;automatic sentiment analysis;user reviews;data mining;raw data;information extraction;dual sentiment analysis;bag of word performance;support vector machine algorithm;neutral review classification;sentiment graphs;visual representation;product video;Sentiment analysis;Data mining;Classification algorithms;Dictionaries;Conferences;Technological innovation;Agriculture;Opinion Mining;Sentiment Analysis;Data Mining}, 
+doi={10.1109/TIAR.2016.7801231}, 
+ISSN={}, 
+month={July},}
+
+
+
+
+@INPROCEEDINGS{7975207, 
+author={T. K. {Shivaprasad} and J. {Shetty}}, 
+booktitle={2017 International Conference on Inventive Communication and Computational Technologies (ICICCT)}, 
+title={Sentiment analysis of product reviews: A review}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={298-301}, 
+keywords={learning (artificial intelligence);natural language processing;pattern classification;sentiment analysis;support vector machines;product review sentiment analysis;Internet;natural language processing;computational linguistics;text analytics;NLP problems;Support vector machine;Naive Bayes;maximum entropy methods;SVM;Sentiment analysis;Feature extraction;Dictionaries;Semantics;Classification algorithms;Supervised learning;Sentiment analysis;Opinion mining;Product reviews;Natural language processing}, 
+doi={10.1109/ICICCT.2017.7975207}, 
+ISSN={}, 
+month={March},}
+
+
+
+@Article{NguyenThiNgoc2019,
+author="Nguyen Thi Ngoc, Tu
+and Nguyen Thi Thu, Ha
+and Nguyen, Viet Anh",
+title="Mining aspects of customer's review on the social network",
+journal="Journal of Big Data",
+year="2019",
+month="Feb",
+day="28",
+volume="6",
+number="1",
+pages="22",
+abstract="This study represents an efficient method for extracting product aspects from customer reviews and give solutions for inferring aspect ratings and aspect weights. Aspect ratings often reflect the user's satisfaction on aspects of a product and aspect weights reflect the degree of importance of the aspects posed by the user. These tasks therefore play a very important role for manufacturers to better understand their customers' opinion on their products and services. The study addresses the problem of aspect extraction by using aspect words based on conditional probability combined with the bootstrap technique. To infer the user's rating for aspects, a supervised approach called the Na{\"i}ve Bayes classification method is proposed to learn the aspect ratings in which sentiment words are considered as features. The weight of an aspect is estimated by leveraging the frequencies of aspect words within each review and the aspect consistency across all reviews. Experimental results show that the proposed method obtains very good performance on real world datasets in comparison with other state-of-the-art methods.",
+issn="2196-1115",
+doi="10.1186/s40537-019-0184-5",
+url="https://doi.org/10.1186/s40537-019-0184-5"
+}
+
+
+@InProceedings{10.1007/978-3-642-23851-2_17,
+author="Burns, Nicola
+and Bi, Yaxin
+and Wang, Hui
+and Anderson, Terry",
+editor="K{\"o}nig, Andreas
+and Dengel, Andreas
+and Hinkelmann, Knut
+and Kise, Koichi
+and Howlett, Robert J.
+and Jain, Lakhmi C.",
+title="Sentiment Analysis of Customer Reviews: Balanced versus Unbalanced Datasets",
+booktitle="Knowledge-Based and Intelligent Information and Engineering Systems",
+year="2011",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="161--170",
+abstract="More people are buying products online and expressing their opinions on these products through online reviews. Sentiment analysis can be used to extract valuable information from reviews, and the results can benefit both consumers and manufacturers. This research shows a study which compares two well known machine learning algorithms namely, dynamic language model and na{\"i}ve Bayes classifier. Experiments have been carried out to determine the consistency of results when the datasets are of different sizes and also the effect of a balanced or unbalanced dataset. The experimental results indicate that both the algorithms over a realistic unbalanced dataset can achieve better results than the balanced datasets commonly used in research.",
+isbn="978-3-642-23851-2"
+}
+
+
+
+
+
+@INPROCEEDINGS{8229825, 
+author={C. {Chauhan} and S. {Sehgal}}, 
+booktitle={2017 International Conference on Computing, Communication and Automation (ICCCA)}, 
+title={Sentiment analysis on product reviews}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={26-31}, 
+keywords={customer services;natural language processing;sentiment analysis;Web sites;sentiment analysis;text analysis;higher level natural language processing tasks;product reviews;web sites;customer requirements;Feature extraction;Sentiment analysis;Companies;Automation;Tools;Tagging;Sentiment analysis;polarity;Natural language processing;Product reviews;Senti-word net;Part-of-speech tagging}, 
+doi={10.1109/CCAA.2017.8229825}, 
+ISSN={}, 
+month={May},}
+
+
+
+
+@INPROCEEDINGS{7372323, 
+author={Y. {Sawakoshi} and M. {Okada} and K. {Hashimoto}}, 
+booktitle={2015 International Conference on Computer Application Technologies}, 
+title={An Investigation of Effectiveness of "Opinion" and "Fact" Sentences for Sentiment Analysis of Customer Reviews}, 
+year={2015}, 
+volume={}, 
+number={}, 
+pages={98-102}, 
+keywords={classification;reviews;sentiment analysis;support vector machines;travel industry;Web sites;negative reviews;positive reviews;support vector machine;SVM;fact sentences;opinion sentences;sentences classification;Internet;travel information Web site;customer reviews;sentiment analysis;Support vector machine classification;Sentiment analysis;Kernel;Cities and towns;Internet;Support Vector Machine;Opinion sentence;Fact sentence;Customer review;Sentiment Analysis}, 
+doi={10.1109/CCATS.2015.33}, 
+ISSN={}, 
+month={Aug},}
+
+
+
+@INPROCEEDINGS{8203960, 
+author={Z. {Singla} and S. {Randhawa} and S. {Jain}}, 
+booktitle={2017 8th International Conference on Computing, Communication and Networking Technologies (ICCCNT)}, 
+title={Statistical and sentiment analysis of consumer product reviews}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={1-6}, 
+keywords={Big Data;business data processing;consumer products;data analysis;decision making;electronic commerce;Internet;pattern classification;statistical analysis;text analysis;product manufacturers;online reviews;customer requirements;positive reviews;negative reviews;sentiment analysis;data analysis;positive sentiment;negative sentiment;consumer product reviews;Big Data commerce;e-commerce giants;statistical analysis;profitable decisions;Sentiment analysis;Tag clouds;Mobile handsets;Big Data;Business;Statistical analysis;Feature extraction;Data Analysis;Big Data;Text Mining;Text Classification;Sentiment Analysis;Online Reviews}, 
+doi={10.1109/ICCCNT.2017.8203960}, 
+ISSN={}, 
+month={July},}
+
+
+
+
+
+
+
+@INPROCEEDINGS{7382150, 
+author={ and and and }, 
+booktitle={2015 12th International Conference on Fuzzy Systems and Knowledge Discovery (FSKD)}, 
+title={Fine-grained sentiment analysis of online reviews}, 
+year={2015}, 
+volume={}, 
+number={}, 
+pages={1406-1411}, 
+keywords={clothing;consumer behaviour;Internet;sentiment analysis;fine-grained sentiment analysis;online reviews;customer voice;product designers;commodity attribute;emotional tendency;buyers;manufacturers;product strength;product weakness;consumer taste;product attribute;women dress;POS rules;Feature extraction;Color;Sentiment analysis;Logistics;Internet;Shape;Text categorization;online review;sentiment analysis;e-commerce;customer comments;implicit features}, 
+doi={10.1109/FSKD.2015.7382150}, 
+ISSN={}, 
+month={Aug},}
+
+
+
+
+@INPROCEEDINGS{8607335, 
+author={A. {Dhini} and D. A. {Kusumaningrum}}, 
+booktitle={2018 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)}, 
+title={Sentiment Analysis of Airport Customer Reviews}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={502-506}, 
+keywords={airports;Bayes methods;customer satisfaction;data mining;pattern classification;sentiment analysis;support vector machines;support vector machine;Naïve Bayes Classifier;airport services;service aspect;airport facility;sentiment analysis;customer satisfaction level;largest airport;text mining approach;sentimental analysis;Naïve Bayes classifier;classification techniques;positive sentiments;negative sentiments;review sentence;Soekarno-Hatta airport;airport customer reviews;Airports;Support vector machines;Sentiment analysis;Matrix decomposition;Text mining;Classification algorithms;big data, Naï;ve Bayes classifier;sentiment analysis;Soekarno-Hatta International Airport;support vector machine;text mining.}, 
+doi={10.1109/IEEM.2018.8607335}, 
+ISSN={2157-362X}, 
+month={Dec},}
+
+
+
+
+@INPROCEEDINGS{8122144, 
+author={S. L. {Sonawane} and P. V. {Kulkarni}}, 
+booktitle={2017 1st International Conference on Intelligent Systems and Information Management (ICISIM)}, 
+title={Extracting sentiments from reviews: A lexicon-based approach}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={38-43}, 
+keywords={natural language processing;pattern classification;sentiment analysis;review document;sentimental score;lexicon-based approach;information extraction;retrieval;sentiment analysis;polarity;useful content;opinion sources;customer reviews;sentiments extraction;SentiWordNet;Sentiment analysis;Semantics;Data mining;Digital cameras;Tagging;Motion pictures;Sentiment Analysis;Lexicon Approach;Sentimental Score;SentiWordNet}, 
+doi={10.1109/ICISIM.2017.8122144}, 
+ISSN={}, 
+month={Oct},}
+
+
+
+
+
+@INPROCEEDINGS{7873646, 
+author={N. {Devasia} and R. {Sheik}}, 
+booktitle={2016 International Conference on Emerging Technological Trends (ICETT)}, 
+title={Feature extracted sentiment analysis of customer product reviews}, 
+year={2016}, 
+volume={}, 
+number={}, 
+pages={1-6}, 
+keywords={feature extraction;Internet;matrix algebra;retail data processing;sentiment analysis;feature extracted sentiment analysis;customer product reviews;online shopping;product feature analysis;semantic based approach;product feature extraction;recursive deep model;review sentence sentiment orientation;review matrix;Feature extraction;Market research;Semantics;Algorithm design and analysis;Sentiment analysis;Computer science;Machine learning algorithms;Product reviews;Feature extraction;Sentiment orientation;Dependency relations;Recursive deep model}, 
+doi={10.1109/ICETT.2016.7873646}, 
+ISSN={}, 
+month={Oct},}
+
+
+
+@INPROCEEDINGS{8049980, 
+author={S. K. {Chauhan} and A. {Goel} and P. {Goel} and A. {Chauhan} and M. K. {Gurve}}, 
+booktitle={2017 4th International Conference on Signal Processing and Integrated Networks (SPIN)}, 
+title={Research on product review analysis and spam review detection}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={390-393}, 
+keywords={electronic commerce;sentiment analysis;Web sites;product review analysis;spam review detection;e-commerce Web sites;malicious opinions;sentiment analysis;Amazon dataset;sentiment score;inhouse dictionary;Dictionaries;Sentiment analysis;Feature extraction;Signal processing;Companies;Personnel;Filtering;Sentiment analysis;Opinion mining;Sentiment words;Polarity computation}, 
+doi={10.1109/SPIN.2017.8049980}, 
+ISSN={}, 
+month={Feb},}
+
+
+
+@INPROCEEDINGS{6508366, 
+author={K. {Mouthami} and K. N. {Devi} and V. M. {Bhaskaran}}, 
+booktitle={2013 International Conference on Information Communication and Embedded Systems (ICICES)}, 
+title={Sentiment analysis and classification based on textual reviews}, 
+year={2013}, 
+volume={}, 
+number={}, 
+pages={271-276}, 
+keywords={customer relationship management;data mining;information retrieval;social networking (online);support vector machines;text analysis;sentiment analysis;textual reviews;data mining;valuable information extraction;emotion analysis;emotion understanding;text patterns;social media monitoring;customer relation management;complaint management;single topic textual review classification;document-level sentiment classification;multitheme document;document level classification;Bag of words;support vector machine;SVM algorithm;sentiment fuzzy classification algorithm;speech tags;benchmark dataset;movies reviews dataset;Sentiment analysis;Accuracy;Support vector machines;Motion pictures;Classification algorithms;Text categorization;Sentiment analysis;opinion mining;Text classification;Support Vector Machine;Term weighting;Sentiment Fuzzy Classification;parts of speech tags}, 
+doi={10.1109/ICICES.2013.6508366}, 
+ISSN={}, 
+month={Feb},}
+
+
+
+
+@INPROCEEDINGS{6508366, 
+author={K. {Mouthami} and K. N. {Devi} and V. M. {Bhaskaran}}, 
+booktitle={2013 International Conference on Information Communication and Embedded Systems (ICICES)}, 
+title={Sentiment analysis and classification based on textual reviews}, 
+year={2013}, 
+volume={}, 
+number={}, 
+pages={271-276}, 
+keywords={customer relationship management;data mining;information retrieval;social networking (online);support vector machines;text analysis;sentiment analysis;textual reviews;data mining;valuable information extraction;emotion analysis;emotion understanding;text patterns;social media monitoring;customer relation management;complaint management;single topic textual review classification;document-level sentiment classification;multitheme document;document level classification;Bag of words;support vector machine;SVM algorithm;sentiment fuzzy classification algorithm;speech tags;benchmark dataset;movies reviews dataset;Sentiment analysis;Accuracy;Support vector machines;Motion pictures;Classification algorithms;Text categorization;Sentiment analysis;opinion mining;Text classification;Support Vector Machine;Term weighting;Sentiment Fuzzy Classification;parts of speech tags}, 
+doi={10.1109/ICICES.2013.6508366}, 
+ISSN={}, 
+month={Feb},}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

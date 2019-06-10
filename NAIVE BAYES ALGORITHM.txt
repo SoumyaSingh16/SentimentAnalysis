@@ -1,0 +1,7 @@
+Naives Bayes is a machine learning algorithm,which is used for clasiification but the primary usage of naive bayes algorithm is text classification.
+
+formula : Given a hypothesis H and evidence E,Bayes theorem states that the relationship between the probablity of the hypothesis before getting the evidence P(H) and the probablity of the hypothesis after getting the evidence is P(H|E):
+
+
+
+  P(H|E) = (P(E|H) P(H))/P(E)

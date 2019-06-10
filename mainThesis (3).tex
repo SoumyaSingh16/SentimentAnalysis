@@ -1,0 +1,134 @@
+%\documentclass[a4paper,12pt, twoside]{report}
+\documentclass[a4paper,12pt]{report}
+\usepackage{graphicx}
+\graphicspath{{./images/}}
+%\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{setspace}
+\doublespacing
+%\onehalfspacing
+\usepackage[none]{hyphenat}
+\usepackage{color}
+\usepackage{pdflscape}
+\usepackage{rotating}
+\usepackage{rotating}
+\usepackage [autostyle, english = american]{csquotes}
+\usepackage{fancybox}
+\usepackage{nomencl}
+\usepackage{breakcites}
+\usepackage{lipsum}
+%\usepackage{natbib}
+\usepackage{bibentry}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage[bookmarks=true]{hyperref}
+\usepackage{epsfig}
+\usepackage{graphics}
+\usepackage{multirow}
+\usepackage{subfig}
+\usepackage{pdfpages}
+\usepackage{amsmath,amssymb,amsthm,amsfonts}
+\allowdisplaybreaks
+\usepackage{enumerate}
+%\usepackage[round, authoryear, comma, sort&compress]{natbib}
+\usepackage{latexsym}
+\setlength{\parindent}{1cm}
+%\setlength{\parskip}{1cm plus 4mm minus 3mm}
+\makeatletter
+\renewcommand{\section}{\@startsection {section}{1}{\z@}%
+	{-3.5ex \@plus -1ex \@minus -.2ex}%
+	{2.3ex \@plus .2ex}%
+	{\normalfont\Large\scshape\bfseries}}
+
+\renewcommand{\subsection}{\@startsection{subsection}{2}{\z@}%
+	{-3.25ex\@plus -1ex \@minus -.2ex}%
+	{1.5ex \@plus .2ex}%
+	{\normalfont\large\scshape\bfseries}}
+
+\renewcommand{\subsubsection}{\@startsection{subsubsection}{2}{\z@}%
+	{-3.25ex\@plus -1ex \@minus -.2ex}%
+	{1.5ex \@plus .2ex}%
+	{\normalfont\normalsize\scshape\bfseries}}
+\makeatother
+\usepackage{titlesec}
+%\titleformat{\chapter}{\normalfont\huge}{\thechapter.}{20pt}{\huge\it}
+%\titleformat{\chapter}[display]
+%{\normalfont\fontsize{16pt}{18pt}\selectfont\mdseries}
+%{\MakeUppercase{\chaptertitlename}\ \thechapter}{20pt}{\MakeUppercase}
+%\titleformat{\section}
+%{\normalfont\fontsize{12pt}{14pt}\selectfont\bfseries}{\thesection}{1em}{}
+%\titleformat{\subsection}
+%{\normalfont\fontsize{12pt}{14pt}\selectfont\itshape}{\thesubsection}{1em}{}
+%\titlespacing*{\section} {12pt}{14pt}{2.3ex plus .2ex}
+%%\titlespacing*{\subsection}{12pt}{14pt}{2.3ex plus .2ex}
+\usepackage[top=1.7in, bottom=2in, left=1.5in, right=1in]{geometry}
+\usepackage{fancyhdr}\fancyhead{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE] {\it{\nouppercase{\leftmark}}}
+\fancyhead[LO] {\it{\nouppercase{\rightmark}}}
+
+\fancyfoot{}
+\renewcommand{\contentsname}{Table Of Contents}
+  
+\date{}
+
+\theoremstyle{plain}
+
+
+\pagestyle{empty}
+
+
+\begin{document}
+\include{frontMatters/certificate}
+\include{frontMatters/declaration}
+\include{frontMatters/ACKNOWLEDGMENT}
+\include{frontMatters/abstract}
+\include{frontMatters/about_dgrc}
+%\include{frontmatter/dedecate}
+%\includepdf[pages=3-]{ThesisCertificates.pdf}
+\pagenumbering{gobble}
+\tableofcontents
+
+\pagenumbering{roman}
+\addcontentsline{toc}{chapter}{List Of Tables}
+\listoftables
+\newpage
+\addcontentsline{toc}{chapter}{List Of Figures}
+\listoffigures
+\newpage
+%\addcontentsline{toc}{chapter}{Preface}
+%\include{frontmatter/preface}
+\newpage
+\pagestyle{fancy}
+\pagenumbering{arabic}
+\include{Chapter1/chapter1}
+\include{Chapter2/chapter2}
+\include{Chapter3/chapter3}
+\include{Chapter4/chapter4}
+\include{Chapter5/chapter5}
+%\include{Chapter6/chapter6}
+
+\bibliographystyle{apalike}
+%\bibliographystyle{unsrt}
+\bibliography{bibliography}
+\thispagestyle{empty}
+\pagestyle{fancy}
+%\include{backmatter/appendix}
+\addcontentsline{toc}{chapter}{APPENDIX}
+%\include{code1/code}
+%\includepdf[pages=-]{code1/code}
+%\includepdf{code1/code3}
+%\includepdf{code1/code4}
+%\includepdf{code1/code5}
+%\includepdf{code1/code6}
+%\includepdf{code1/code7}
+\addcontentsline{toc}{chapter}{List of Publications}
+%\include{backmatter/publication}
+%\includepdf[pages=-]{papers/hga}
+%\includepdf{page2}
+%\includepdf[pages=2-]{papers/tool}
+%\includepdf[pages=-]{papers/ijca}
+\addcontentsline{toc}{chapter}{Curriculam-Vitae}
+%\includepdf{cv.pdf}
+\end{document}

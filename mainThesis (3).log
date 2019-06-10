@@ -1,0 +1,1346 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.13)  10 JUN 2019 10:19
+entering extended mode
+**"./mainThesis (3).tex"
+("mainThesis (3).tex"
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\t1enc.def"
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyphenat\hyphenat.sty"
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language76
+LaTeX Info: Redefining \_ on input line 43.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count89
+\rotFPtop=\skip43
+\rotFPbot=\skip44
+\rot@float@box=\box27
+\rot@mess@toks=\toks17
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.sty"
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count90
+)
+\csq@reset=\count91
+\csq@gtype=\count92
+\csq@glevel=\count93
+\csq@qlevel=\count94
+\csq@maxlvl=\count95
+\csq@tshold=\count96
+\csq@ltx@everypar=\toks18
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.def"
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/csquotes\csquotes.cfg"
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+Package csquotes Info: Redefining alias 'english' -> 'english/american'.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/fancybox\fancybox.sty"
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box28
+\shadowsize=\dimen105
+\@Sbox=\box29
+\do@VerbBox=\toks19
+\the@fancyput=\toks20
+\this@fancyput=\toks21
+\EndVerbatimTokens=\toks22
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/nomencl\nomencl.sty"
+Package: nomencl 2019/02/08 v5.1 Nomenclature package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count97
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\tocbasic.sty"
+Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrbase.sty"
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent
+ basics and keyval usage)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/koma-script\scrlfile.sty"
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+))
+\scr@dte@tocline@numberwidth=\skip45
+\scr@dte@tocline@numbox=\box30
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 24.
+Package tocbasic Info: setting babel extension for `nls' on input line 25.
+\nomlabelwidth=\dimen106
+\nom@tempdim=\dimen107
+\nomitemsep=\skip46
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/breakcites\breakcites.sty")
+("C:\Program Files\MiKTeX 2.9\tex/latex/lipsum\lipsum.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2019-04-21 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3-code.tex"
+Package: expl3 2019-04-21 L3 programming layer (code)
+\c_max_int=\count98
+\l_tmpa_int=\count99
+\l_tmpb_int=\count100
+\g_tmpa_int=\count101
+\g_tmpb_int=\count102
+\g__kernel_prg_map_int=\count103
+\c__ior_term_ior=\count104
+\c_log_iow=\count105
+\l_iow_line_count_int=\count106
+\l__iow_line_target_int=\count107
+\l__iow_one_indent_int=\count108
+\l__iow_indent_int=\count109
+\c_zero_dim=\dimen108
+\c_max_dim=\dimen109
+\l_tmpa_dim=\dimen110
+\l_tmpb_dim=\dimen111
+\g_tmpa_dim=\dimen112
+\g_tmpb_dim=\dimen113
+\c_zero_skip=\skip47
+\c_max_skip=\skip48
+\l_tmpa_skip=\skip49
+\l_tmpb_skip=\skip50
+\g_tmpa_skip=\skip51
+\g_tmpb_skip=\skip52
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count110
+\l__intarray_loop_int=\count111
+\c__intarray_sp_dim=\dimen114
+\g__intarray_font_int=\count112
+\c__fp_leading_shift_int=\count113
+\c__fp_middle_shift_int=\count114
+\c__fp_trailing_shift_int=\count115
+\c__fp_big_leading_shift_int=\count116
+\c__fp_big_middle_shift_int=\count117
+\c__fp_big_trailing_shift_int=\count118
+\c__fp_Bigg_leading_shift_int=\count119
+\c__fp_Bigg_middle_shift_int=\count120
+\c__fp_Bigg_trailing_shift_int=\count121
+\c__kernel_randint_max_int=\count122
+\g__fp_array_int=\count123
+\l__fp_array_loop_int=\count124
+\l__sort_length_int=\count125
+\l__sort_min_int=\count126
+\l__sort_top_int=\count127
+\l__sort_max_int=\count128
+\l__sort_true_max_int=\count129
+\l__sort_block_int=\count130
+\l__sort_begin_int=\count131
+\l__sort_end_int=\count132
+\l__sort_A_int=\count133
+\l__sort_B_int=\count134
+\l__sort_C_int=\count135
+\l__tl_analysis_normal_int=\count136
+\l__tl_analysis_index_int=\count137
+\l__tl_analysis_nesting_int=\count138
+\l__tl_analysis_type_int=\count139
+\l__regex_internal_a_int=\count140
+\l__regex_internal_b_int=\count141
+\l__regex_internal_c_int=\count142
+\l__regex_balance_int=\count143
+\l__regex_group_level_int=\count144
+\l__regex_mode_int=\count145
+\c__regex_cs_in_class_mode_int=\count146
+\c__regex_cs_mode_int=\count147
+\l__regex_catcodes_int=\count148
+\l__regex_default_catcodes_int=\count149
+\c__regex_catcode_D_int=\count150
+\c__regex_catcode_S_int=\count151
+\c__regex_catcode_L_int=\count152
+\c__regex_catcode_O_int=\count153
+\c__regex_catcode_A_int=\count154
+\c__regex_all_catcodes_int=\count155
+\l__regex_show_lines_int=\count156
+\l__regex_min_state_int=\count157
+\l__regex_max_state_int=\count158
+\l__regex_left_state_int=\count159
+\l__regex_right_state_int=\count160
+\l__regex_capturing_group_int=\count161
+\l__regex_min_pos_int=\count162
+\l__regex_max_pos_int=\count163
+\l__regex_curr_pos_int=\count164
+\l__regex_start_pos_int=\count165
+\l__regex_success_pos_int=\count166
+\l__regex_curr_char_int=\count167
+\l__regex_curr_catcode_int=\count168
+\l__regex_last_char_int=\count169
+\l__regex_case_changed_char_int=\count170
+\l__regex_curr_state_int=\count171
+\l__regex_step_int=\count172
+\l__regex_min_active_int=\count173
+\l__regex_max_active_int=\count174
+\l__regex_replacement_csnames_int=\count175
+\l__regex_match_count_int=\count176
+\l__regex_min_submatch_int=\count177
+\l__regex_submatch_int=\count178
+\l__regex_zeroth_submatch_int=\count179
+\g__regex_trace_regex_int=\count180
+\c_empty_box=\box31
+\l_tmpa_box=\box32
+\l_tmpb_box=\box33
+\g_tmpa_box=\box34
+\g_tmpb_box=\box35
+\l__box_top_dim=\dimen115
+\l__box_bottom_dim=\dimen116
+\l__box_left_dim=\dimen117
+\l__box_right_dim=\dimen118
+\l__box_top_new_dim=\dimen119
+\l__box_bottom_new_dim=\dimen120
+\l__box_left_new_dim=\dimen121
+\l__box_right_new_dim=\dimen122
+\l__box_internal_box=\box36
+\l__coffin_internal_box=\box37
+\l__coffin_internal_dim=\dimen123
+\l__coffin_offset_x_dim=\dimen124
+\l__coffin_offset_y_dim=\dimen125
+\l__coffin_x_dim=\dimen126
+\l__coffin_y_dim=\dimen127
+\l__coffin_x_prime_dim=\dimen128
+\l__coffin_y_prime_dim=\dimen129
+\c_empty_coffin=\box38
+\l__coffin_aligned_coffin=\box39
+\l__coffin_aligned_internal_coffin=\box40
+\l_tmpa_coffin=\box41
+\l_tmpb_coffin=\box42
+\g_tmpa_coffin=\box43
+\g_tmpb_coffin=\box44
+\l__coffin_bounding_shift_dim=\dimen130
+\l__coffin_left_corner_dim=\dimen131
+\l__coffin_right_corner_dim=\dimen132
+\l__coffin_bottom_corner_dim=\dimen133
+\l__coffin_top_corner_dim=\dimen134
+\l__coffin_scaled_total_height_dim=\dimen135
+\l__coffin_scaled_width_dim=\dimen136
+\c__coffin_empty_coffin=\box45
+\l__coffin_display_coffin=\box46
+\l__coffin_display_coord_coffin=\box47
+\l__coffin_display_pole_coffin=\box48
+\l__coffin_display_offset_dim=\dimen137
+\l__coffin_display_x_dim=\dimen138
+\l__coffin_display_y_dim=\dimen139
+\g__file_internal_ior=\read2
+\l__seq_internal_a_int=\count181
+\l__seq_internal_b_int=\count182
+\c__deprecation_minus_one=\count183
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count184
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count185
+\g__xparse_grabber_int=\count186
+\l__xparse_m_args_int=\count187
+\l__xparse_v_nesting_int=\count188
+)
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/lipsum\lipsum.ltd.tex"
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/natbib\bibentry.sty"
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks25
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip53
+\enit@outerparindent=\dimen140
+\enit@toks=\toks26
+\enit@inbox=\box49
+\enit@count@id=\count189
+\enitdp@description=\count190
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count191
+\Hy@pagecounter=\count192
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count193
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count194
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen142
+\Fld@menulength=\count195
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count196
+\c@Item=\count197
+\c@Hfootnote=\count198
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count199
+\c@bookmark@seq@number=\count266
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip54
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\epsfig.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen145
+\epsfysize=\dimen146
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/multirow\multirow.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count267
+\multirow@dima=\skip56
+\bigstrutjot=\dimen147
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen148
+\captionmargin@=\dimen149
+\captionwidth=\dimen150
+\caption@tempdima=\dimen151
+\caption@indent=\dimen152
+\caption@parindent=\dimen153
+\caption@hangindent=\dimen154
+)
+\c@caption@flags=\count268
+\c@ContinuedFloat=\count269
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+)
+\c@KVtest=\count270
+\sf@farskip=\skip57
+\sf@captopadj=\dimen155
+\sf@capskip=\skip58
+\sf@nearskip=\skip59
+\c@subfigure=\count271
+\c@subfigure@save=\count272
+\c@lofdepth=\count273
+\c@subtable=\count274
+\c@subtable@save=\count275
+\c@lotdepth=\count276
+\sf@top=\skip60
+\sf@bottom=\skip61
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count277
+\calc@Bcount=\count278
+\calc@Adimen=\dimen156
+\calc@Bdimen=\dimen157
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count279
+\calc@Cskip=\skip64
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+)
+\AM@pagewidth=\dimen158
+\AM@pageheight=\dimen159
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box50
+\AM@global@opts=\toks27
+\AM@toc@title=\toks28
+\c@AM@survey=\count280
+\AM@templatesizebox=\box51
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip65
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen160
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen161
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count281
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count282
+\leftroot@=\count283
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count284
+\DOTSCASE@=\count285
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen162
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count286
+\c@MaxMatrixCols=\count287
+\dotsspace@=\muskip17
+\c@parentequation=\count288
+\dspbrk@lvl=\count289
+\tag@help=\toks30
+\row@=\count290
+\column@=\count291
+\maxfields@=\count292
+\andhelp@=\toks31
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
+\@envbody=\toks32
+\multlinegap=\skip66
+\multlinetaggap=\skip67
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks34
+\thm@bodyfont=\toks35
+\thm@headfont=\toks36
+\thm@notefont=\toks37
+\thm@headpunct=\toks38
+\thm@preskip=\skip68
+\thm@postskip=\skip69
+\thm@headsep=\skip70
+\dth@everypar=\toks39
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip71
+\aftertitleunit=\skip72
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks40
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+\Gm@cnth=\count293
+\Gm@cntv=\count294
+\c@Gm@tempcnt=\count295
+\Gm@bindingoffset=\dimen174
+\Gm@wd@mp=\dimen175
+\Gm@odd@mp=\dimen176
+\Gm@even@mp=\dimen177
+\Gm@layoutwidth=\dimen178
+\Gm@layoutheight=\dimen179
+\Gm@layouthoffset=\dimen180
+\Gm@layoutvoffset=\dimen181
+\Gm@dimlist=\toks41
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip73
+\f@nch@O@elh=\skip74
+\f@nch@O@erh=\skip75
+\f@nch@O@olh=\skip76
+\f@nch@O@orh=\skip77
+\f@nch@O@elf=\skip78
+\f@nch@O@erf=\skip79
+\f@nch@O@olf=\skip80
+\f@nch@O@orf=\skip81
+)
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 67.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 68.
+
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+
+Package csquotes Warning: No multilingual support.
+(csquotes)                Cannot enable multilingual quotes on input line 82.
+
+("mainThesis (3).aux" (frontMatters/certificate.aux)
+(frontMatters/declaration.aux) (frontMatters/ACKNOWLEDGMENT.aux)
+(frontMatters/abstract.aux) (frontMatters/about_dgrc.aux)
+(Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux)
+(Chapter4/chapter4.aux) (Chapter5/chapter5.aux))
+\openout1 = `"mainThesis (3).aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count296
+\scratchdimen=\dimen182
+\scratchbox=\box55
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen183
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks43
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box56
+Package hyperref Info: Link coloring OFF on input line 82.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count302
+)
+LaTeX Info: Redefining \ref on input line 82.
+LaTeX Info: Redefining \pageref on input line 82.
+LaTeX Info: Redefining \nameref on input line 82.
+
+("mainThesis (3).out") ("mainThesis (3).out")
+\@outlinefile=\write4
+\openout4 = `"mainThesis (3).out"'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(122.85876pt, 577.64809pt, 144.54pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=577.64809pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=13.58878pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\openout2 = `frontMatters/certificate.aux'.
+
+(frontMatters/certificate.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 6.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)) [1
+
+
+{C:/Users/saumya/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+\openout2 = `frontMatters/declaration.aux'.
+
+ (frontMatters/declaration.tex) [2
+
+
+]
+\openout2 = `frontMatters/ACKNOWLEDGMENT.aux'.
+
+ (frontMatters/ACKNOWLEDGMENT.tex
+Overfull \hbox (1.03183pt too wide) in paragraph at lines 6--7
+[]\T1/cmr/m/n/12 I would like to thank the peo-ple who have ren-dered their sup
+-port, su-per-vi-sion,
+ []
+
+) [3
+
+
+]
+\openout2 = `frontMatters/abstract.aux'.
+
+ (frontMatters/abstract.tex) [4
+
+
+]
+\openout2 = `frontMatters/about_dgrc.aux'.
+
+ (frontMatters/about_dgrc.tex
+Overfull \hbox (11.02779pt too wide) in paragraph at lines 6--7
+[]\T1/cmr/m/n/12 National In-for-mat-ics Cen-ter (NIC), the Min-istry of Elec-t
+ron-ics and In-for-ma-tion
+ []
+
+[5
+
+
+]
+Overfull \hbox (6.6456pt too wide) in paragraph at lines 15--16
+[]\T1/cmr/m/n/12 It plays a piv-otal role in steer-ing e-governance ap-pli-ca-t
+ions in the gov-ern-men-tal
+ []
+
+
+Overfull \hbox (4.57251pt too wide) in paragraph at lines 15--16
+\T1/cmr/m/n/12 metropolitan-area net-works (MANs) and local-area net-works (LAN
+s) with gate-ways
+ []
+
+
+Overfull \hbox (2.67014pt too wide) in paragraph at lines 17--18
+\T1/cmr/m/n/12 gov-ern-ment and state gov-ern-ments, union-territory ad-min-is-
+tra-tions, ad-min-is-tra-tive
+ []
+
+
+Overfull \hbox (1.53853pt too wide) in paragraph at lines 19--20
+\T1/cmr/m/n/12 of In-dia (STPI) is a so-ci-ety es-tab-lished in 1991 by the In-
+dian Min-istry of Elec-tron-ics
+ []
+
+[6]
+Overfull \hbox (10.9582pt too wide) in paragraph at lines 23--24
+\T1/cmr/m/n/12 in-clud-ing high-speed data com-mu-ni-ca-tion, in-cu-ba-tion fa-
+cil-i-ties, con-sul-tancy, net-work
+ []
+
+
+Overfull \hbox (4.6409pt too wide) in paragraph at lines 25--26
+[] []\T1/cmr/bx/n/12 The Dig-i-tal In-dia ini-tia-tive[] \T1/cmr/m/n/12  E-gov
+ernance ini-tia-tives in In-dia took a broader
+ []
+
+
+Overfull \hbox (24.076pt too wide) in paragraph at lines 25--26
+\T1/cmr/m/n/12 di-men-sion in the mid-1990s for wider sec-tor ap-pli-ca-tions w
+ith em-pha-sis on cit-i-zen-cen-tric
+ []
+
+[7]
+Overfull \hbox (21.85706pt too wide) in paragraph at lines 27--28
+\T1/cmr/m/n/12 elec-tron-i-cally by im-proved on-line in-fras-truc-ture and by 
+in-creas-ing in-ter-net con-nec-tiv-ity,
+ []
+
+
+Overfull \hbox (4.95432pt too wide) in paragraph at lines 29--30
+\T1/cmr/m/n/12 pro-gram in-cludes the growth in ar-eas of elec-tronic ser-vices
+, prod-ucts, man-u-fac-tur-ing
+ []
+
+
+Overfull \hbox (12.78587pt too wide) in paragraph at lines 29--30
+\T1/cmr/m/n/12 and job op-por-tu-ni-ties etc., and it is cen-tered on three key
+ ar-eas  dig-i-tal in-fras-truc-ture
+ []
+
+
+Overfull \hbox (19.24673pt too wide) in paragraph at lines 29--30
+\T1/cmr/m/n/12 as a util-ity to ev-ery cit-i-zen, gov-er-nance & ser-vices on d
+e-mand and dig-i-tal em-pow-er-ment
+ []
+
+) [8] ("mainThesis (3).toc" [1
+
+
+])
+\tf@toc=\write5
+\openout5 = `"mainThesis (3).toc"'.
+
+ [1] ("mainThesis (3).lot")
+\tf@lot=\write6
+\openout6 = `"mainThesis (3).lot"'.
+
+ [2
+
+]
+("mainThesis (3).lof")
+\tf@lof=\write7
+\openout7 = `"mainThesis (3).lof"'.
+
+ [3
+
+]
+\openout2 = `Chapter1/chapter1.aux'.
+
+ (Chapter1/chapter1.tex
+Chapter 1.
+
+Overfull \hbox (11.3717pt too wide) in paragraph at lines 3--4
+\T1/cmr/m/n/12 in-flu-ence and peo-ple opin-ions to-wards their prod-ucts. Con-
+se-quently, a com-pu-ta-tional
+ []
+
+
+Overfull \hbox (4.03275pt too wide) in paragraph at lines 5--6
+\T1/cmr/m/n/12   \T1/cmr/bx/n/12 SEN-TI-MENT ANAL-Y-SIS IS ALSO KNOWN AS OPIN-
+ION MIN-ING\T1/cmr/m/n/12  .
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.6 
+     [1
+
+
+])
+Overfull \hbox (37.12845pt too wide) in paragraph at lines 11--105
+\T1/cmr/m/n/12 knowl-edge is dis-cussed, along with the tech-niques and al-go-r
+ithms used in de-vel-op-ment.The
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.105 \include{Chapter1/chapter1}
+                                  [2]pdfTeX warning (ext4): destination with th
+e same identifier (name{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.105 \include{Chapter1/chapter1}
+                                  [3]
+\openout2 = `Chapter2/chapter2.aux'.
+
+ (Chapter2/chapter2.tex
+Chapter 2.
+
+Overfull \hbox (1.03862pt too wide) in paragraph at lines 4--5
+\T1/cmr/m/n/12 way a com-pany can im-prove their pre-dic-tive an-a-lyt-ics mod-
+els for cus-tomer turnover
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.8 
+     [4
+
+
+
+])pdfTeX warning (ext4): destination with the same identifier (name{page.5}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.106 \include{Chapter2/chapter2}
+                                  [5]
+\openout2 = `Chapter3/chapter3.aux'.
+
+ (Chapter3/chapter3.tex
+Chapter 3.
+
+Overfull \hbox (6.2146pt too wide) in paragraph at lines 8--10
+[]\T1/cmr/m/n/12 The sys-tem adds se-ries of func-tion-al-i-ties to the pro-ces
+s-ing chain. The fol-low-ing
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.14 \end{itemize}
+                   [6
+
+
+
+]
+Overfull \hbox (0.31938pt too wide) in paragraph at lines 22--23
+[]\T1/cmr/m/n/12 Qualitative re-sult is re-lated with hy-poth-e-sis of the re-s
+earch ori-ented pro-grams
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 	\item T
+             he research study can usually be replicated or repeated, given ...
+[7]
+Overfull \hbox (0.55405pt too wide) in paragraph at lines 32--33
+[]\T1/cmr/m/n/12 Project can be used to gen-er-al-ize con-cepts more widely, pr
+e-dict fu-ture re-sults,
+ []
+
+
+Overfull \hbox (28.0571pt too wide) in paragraph at lines 36--38
+\T1/cmr/m/n/12 been a gen-eral shift in re-search away from tech-no-log-i-cal t
+o man-age-rial and or-ga-ni-za-tional
+ []
+
+
+Overfull \hbox (16.63615pt too wide) in paragraph at lines 36--38
+\T1/cmr/m/n/12 ob-ser-va-tion, in-ter-views and ques-tion-naires, doc-u-ments a
+nd the re-searcher's im-pres-sion
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.38 	\item
+            Action Research [8]
+Overfull \hbox (3.51863pt too wide) in paragraph at lines 45--46
+\T1/cmr/m/n/12 mea-sur-able vari-ables with an in-ten-tion to ex-plain, pre-dic
+t and con-trol a phe-nom-ena. 
+ []
+
+
+Overfull \hbox (9.97388pt too wide) in paragraph at lines 47--48
+[]\T1/cmr/m/n/12 An en-tire quan-ti-ta-tive study usu-ally ends with con-fir-ma
+-tion or dis-confirmation
+ []
+
+
+Overfull \hbox (12.91476pt too wide) in paragraph at lines 49--50
+[]\T1/cmr/m/n/12 Quantitative method typ-i-cally be-gins with data col-lec-tion
+ based on a hy-poth-e-sis
+ []
+
+
+Overfull \hbox (5.95517pt too wide) in paragraph at lines 49--50
+\T1/cmr/m/n/12 mod-ule de-vel-op-ment? The re-searcher finds 10 soft-ware de-ve
+l-op-ers us-ing e-commerce
+ []
+
+
+Overfull \hbox (11.54585pt too wide) in paragraph at lines 49--50
+\T1/cmr/m/n/12 us-ing case-based rea-son-ing e-commerce mod-ule in pro-pri-etar
+y pro-gram-ming lan-guage
+ []
+
+[9]
+Overfull \hbox (0.58176pt too wide) in paragraph at lines 51--52
+\T1/cmr/m/n/12 sta-tis-ti-cal ap-proaches and em-pha-sis on a con-cep-tual un-d
+er-stand-ing for quan-ti-ta-tive
+ []
+
+<./images/chap3_normal_distribution.png, id=286, 225.09094pt x 147.55125pt>
+File: ./images/chap3_normal_distribution.png Graphic file (type png)
+<use ./images/chap3_normal_distribution.png>
+Package pdftex.def Info: ./images/chap3_normal_distribution.png  used on input 
+line 58.
+(pdftex.def)             Requested size: 202.57996pt x 132.79488pt.
+[10]
+<./images/chap3_std.png, id=294, 261.22594pt x 162.6075pt>
+File: ./images/chap3_std.png Graphic file (type png)
+<use ./images/chap3_std.png>
+Package pdftex.def Info: ./images/chap3_std.png  used on input line 66.
+(pdftex.def)             Requested size: 235.10115pt x 146.3454pt.
+ [11 <./images/chap3_normal_distribution.png> <./images/chap3_std.png>]
+[12] [13]
+Overfull \hbox (9.26024pt too wide) in paragraph at lines 102--103
+[]\T1/cmr/m/n/12 These sec-ondary data may be ob-tained from many sources, in-c
+lud-ing lit-er-a-ture,
+ []
+
+
+Overfull \hbox (16.37503pt too wide) in paragraph at lines 102--103
+\T1/cmr/m/n/12 in-dus-try sur-veys, com-pi-la-tions from com-put-er-ized databa
+ses and in-for-ma-tion sys-tems,
+ []
+
+
+Overfull \hbox (28.63133pt too wide) in paragraph at lines 104--105
+\T1/cmr/m/n/12 sources.Their cred-i-bil-ity de-pends on many fac-tors. For ex-a
+m-ple ,on the writer,publishing
+ []
+
+
+Overfull \hbox (1.05112pt too wide) in paragraph at lines 106--107
+[]\T1/cmr/bx/n/12 Books: \T1/cmr/m/n/12 Books are avail-able to-day on any topi
+c that you want to re-search.The
+ []
+
+[14]
+Overfull \hbox (14.87958pt too wide) in paragraph at lines 108--109
+[]\T1/cmr/bx/n/12 Journals/Periodicals: \T1/cmr/m/n/12 Jour-nals and pe-ri-od-i
+-cals are be-com-ing more im-por-tant
+ []
+
+
+Overfull \hbox (60.1658pt too wide) in paragraph at lines 110--111
+[]\T1/cmr/bx/n/12 Magazines/Newspapers: \T1/cmr/m/n/12 Mag-a-zines are also ef-
+fec-tive but not very re-li-able.Newspaper
+ []
+
+
+Overfull \hbox (5.6722pt too wide) in paragraph at lines 112--114
+\T1/cmr/m/n/12 gath-er-ing im-proves our de-ci-sion mak-ing by help-ing us fo-c
+us on ob-jec-tive in-for-ma-tion
+ []
+
+[15] [16] [17]
+Overfull \hbox (5.15012pt too wide) in paragraph at lines 131--132
+\T1/cmr/m/n/12 tasks are chal-leng-ing due to their nat-u-ral lan-guage pro-ces
+s-ing ori-gins, much progress
+ []
+
+
+Overfull \hbox (2.40916pt too wide) in paragraph at lines 131--132
+\T1/cmr/m/n/12 in-sights  and the tech-ni-cal chal-lenges cur-rently fac-ing t
+he field will keep sen-ti-ment
+ []
+
+[18]
+Overfull \hbox (41.69646pt too wide) in paragraph at lines 133--135
+\T1/cmr/m/n/12 eval-u-a-tions, ap-praisals and emo-tions to-wards ser-vices, pr
+od-ucts, in-di-vid-u-als, or-ga-ni-za-tions,
+ []
+
+[19]
+Overfull \hbox (3.28491pt too wide) in paragraph at lines 139--140
+[]\T1/cmr/bx/n/12 PREPARATION OF OUT-PUT: \T1/cmr/m/n/12 the main ob-jec-tive o
+f sen-ti-ment anal-y-sis
+ []
+
+
+Overfull \hbox (6.0054pt too wide) in paragraph at lines 139--140
+\T1/cmr/m/n/12 dis-played con-struct-ing a sen-ti-ment time line with the cho-s
+en value ((fre-quency,
+ []
+
+
+Overfull \hbox (10.5016pt too wide) in paragraph at lines 141--142
+\T1/cmr/m/n/12 dif-fer-ent rule dis-cov-ery, rule rank-ing, rule prun-ing, rule
+ pre-dic-tion and rule eval-u-a-tion
+ []
+
+[20]
+Overfull \hbox (24.26093pt too wide) in paragraph at lines 147--148
+[]\T1/cmr/m/n/12 Anaconda is a free and open source dis-tri-bu-tion of the Pyth
+on and R pro-gram-ming
+ []
+
+
+Overfull \hbox (21.98752pt too wide) in paragraph at lines 147--148
+\T1/cmr/m/n/12 lan-guages for large-scale data pro-cess-ing, pre-dic-tive an-a-
+lyt-ics, and sci-en-tific com-put-ing,
+ []
+
+
+Overfull \hbox (30.35747pt too wide) in paragraph at lines 149--151
+\T1/cmr/m/n/12 2D/3D plot-ting). Spy-der may also be used as a li-brary pro-vid
+-ing pow-er-ful console-related
+ []
+
+
+Overfull \hbox (0.22086pt too wide) in paragraph at lines 149--151
+\T1/cmr/m/n/12 wid-gets for your PyQt-based ap-pli-ca-tions  for ex-am-ple, it
+ may be used to in-te-grate
+ []
+
+[21] [22]
+Overfull \hbox (3.01309pt too wide) in paragraph at lines 163--164
+[]\T1/cmr/m/n/12 Various IDEs are pre-installed with Ana-conda like Syder, Jupy
+ter-Lab, Jupiter
+ []
+
+
+Overfull \hbox (6.14162pt too wide) in paragraph at lines 173--174
+\T1/cmr/m/n/12 PANDAS is a Python pack-age pro-vid-ing fast, flex-i-ble, and ex
+-pres-sive data struc-tures
+ []
+
+[23] [24]
+Overfull \hbox (25.22285pt too wide) in paragraph at lines 195--196
+[]\T1/cmr/m/n/12 Powerful, flex-i-ble group by func-tion-al-ity to per-form spl
+it-applycombine op-er-a-tions
+ []
+
+[25]
+Overfull \hbox (12.72333pt too wide) in paragraph at lines 196--197
+[]\T1/cmr/m/n/12 Make it easy to con-vert ragged, differently-indexed data in o
+ther data struc-tures
+ []
+
+) [26]
+\openout2 = `Chapter4/chapter4.aux'.
+
+ (Chapter4/chapter4.tex
+Chapter 4.
+
+Overfull \hbox (11.3717pt too wide) in paragraph at lines 3--4
+\T1/cmr/m/n/12 in-flu-ence and peo-ple opin-ions to-wards their prod-ucts. Con-
+se-quently, a com-pu-ta-tional
+ []
+
+
+Overfull \hbox (0.91548pt too wide) in paragraph at lines 5--6
+\T1/cmr/bx/n/12 PARA-GRAPH, WHICH HAS A STRONG IM-PACT ON THE SO-CIAL
+ []
+
+[27
+
+
+
+])
+Overfull \hbox (37.12845pt too wide) in paragraph at lines 13--108
+\T1/cmr/m/n/12 knowl-edge is dis-cussed, along with the tech-niques and al-go-r
+ithms used in de-vel-op-ment.The
+ []
+
+[28] [29]
+\openout2 = `Chapter5/chapter5.aux'.
+
+ (Chapter5/chapter5.tex
+Chapter 5.
+
+Overfull \hbox (11.3717pt too wide) in paragraph at lines 3--4
+\T1/cmr/m/n/12 in-flu-ence and peo-ple opin-ions to-wards their prod-ucts. Con-
+se-quently, a com-pu-ta-tional
+ []
+
+
+Overfull \hbox (0.91548pt too wide) in paragraph at lines 5--6
+\T1/cmr/bx/n/12 PARA-GRAPH, WHICH HAS A STRONG IM-PACT ON THE SO-CIAL
+ []
+
+[30
+
+
+
+])
+Overfull \hbox (37.12845pt too wide) in paragraph at lines 13--109
+\T1/cmr/m/n/12 knowl-edge is dis-cussed, along with the tech-niques and al-go-r
+ithms used in de-vel-op-ment.The
+ []
+
+[31] [32] ("mainThesis (3).bbl" [33
+
+
+]
+Underfull \hbox (badness 2126) in paragraph at lines 79--83
+[]\T1/cmr/m/n/12 McClelland, S. B. (1994).  Train-ing needs as-sess-ment
+ []
+
+[34])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
+ [35]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+ ("mainThesis (3).aux" (frontMatters/certificate.aux)
+(frontMatters/declaration.aux) (frontMatters/ACKNOWLEDGMENT.aux)
+(frontMatters/abstract.aux) (frontMatters/about_dgrc.aux)
+(Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux)
+(Chapter4/chapter4.aux) (Chapter5/chapter5.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package rerunfilecheck Info: File `"mainThesis (3)".out' has not changed.
+(rerunfilecheck)             Checksum: EC8C037FE66352294D6B0B73E5B87B0F;2173.
+ ) 
+Here is how much of TeX's memory you used:
+ 21567 strings out of 492946
+ 374187 string characters out of 3135524
+ 579863 words of memory out of 3000000
+ 25030 multiletter control sequences out of 15000+200000
+ 547479 words of font info for 59 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,12n,108p,1676b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\saumya\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecxc1200.pk> <C:\Users\saumya\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappe
+n/ec/dpi600\ecxc1440.pk> <C:\Users\saumya\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\saumya\AppData\Local\MiKTeX\2.9\f
+onts/pk/ljfour/jknappen/ec/dpi600\ecxc1728.pk> <C:\Users\saumya\AppData\Local\M
+iKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\saumya\AppD
+ata\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\
+saumya\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk>
+ <C:\Users\saumya\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\e
+cbx1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "mainThesis (3).pdf" (47 pages, 302432 bytes).
+PDF statistics:
+ 866 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+

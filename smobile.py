@@ -12,7 +12,7 @@ from nltk.tokenize import word_tokenize
 
 stopwords_set=set(stopwords.words("english"))
 
-data=pd.read_csv(r"Smobile.csv")
+data=pd.read_csv(r"C:\Users\saumya\Desktop\project\Smobile.csv",nrows=10)
 data["Reviews"]=data["Reviews"].replace(np.nan,"NA")
 print("Start Tokenization ... ")
 tokens=[word_tokenize(item) for item in list(data["Reviews"])]

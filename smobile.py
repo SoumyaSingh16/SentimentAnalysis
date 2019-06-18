@@ -23,3 +23,4 @@ final_words=[" ".join(token) for token in final_tokens]
 print("Words Joined ... ")
 data["Reviews"]=final_words
 print(data["Reviews"].iloc[0])
+print(data.head())
